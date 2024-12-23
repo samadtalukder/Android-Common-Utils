@@ -1,0 +1,24 @@
+package com.samad_talukder.androidcommonutils.utils
+
+// getThumbnailFile
+// getFile
+// getLocalPathFromUri
+// getCachedFilePath
+// getExternalFilesDirPath
+// getDataColumn
+// getGoogleDriveFilePath
+// isGoogleDriveUri
+// getDocumentCacheDir
+// saveFileFromUri
+// generateFileName
+// getPath
+// getFileName
+// isLocalStorageDocument
+// isExternalStorageDocument
+// isDownloadsDocument
+// isMediaDocument
+// isGooglePhotosUri
+// getFileFromResource
+// splitFile
+// writeFile
+// deleteSliceFiles

@@ -1,0 +1,13 @@
+# Build outputs
+/build
+*.apk
+*.aab
+*.ap_
+
+# Generated files
+/release
+/debug
+/test
+
+# Log Files
+*.log
